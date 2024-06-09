@@ -96,7 +96,7 @@ sudo usermod -a -G docker $USER
 
 ```
 
-# Admin password Jenkins
+# Admin password Jenkins:
 
 `sudo cat /var/lib/jenkins/secrets/initialAdminPassword`
 
